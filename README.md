@@ -55,7 +55,7 @@
 
 ## 🚀 Video Presentation <a name="live-demo"></a>
 
-- [Video Presentation](https://drive.google.com/file/d/1XbuGeUOACbXScL0wWDzxogPq66pkYbw4/view?usp=sharing)
+- Video Presentation
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
